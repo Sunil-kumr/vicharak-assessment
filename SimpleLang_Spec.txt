@@ -1,0 +1,14 @@
+## SimpleLang Specification
+
+### Variable Declaration
+- Syntax: int variable_name;
+
+### Assignment
+- Syntax: variable = expression;
+
+### Arithmetic Operations
+- Supported operators: +, -
+
+### Conditionals
+- Syntax: if (condition) { statements }
+
